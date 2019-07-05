@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">hangout</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Sync Preferences -->
+    <string name="settings_language_title">Language</string>
+    <string name="settings_bar_color">Bar Color</string>
+    <string name="title_activity_contact_adding">Add Contact</string>
+    <string name="action_add_contact">Add Contact</string>
+    <string name="contact_name">Name:</string>
+    <string name="contact_number">Number:</string>
+    <string name="contact_description">Description:</string>
+    <string name="contact_submit">SUBMIT</string>
+    <string name="contact_name_hint">Enter Name</string>
+    <string name="contact_number_hint">Enter Phone Number</string>
+    <string name="contact_description_hint">Enter Description</string>
+    <string name="title_activity_contact_profile">Profile</string>
+    <string name="title_activity_contact_editing">Edit Profile</string>
+    <string name="action_edit_profile">Edit Profile</string>
+    <string name="edit_delete">DELETE</string>
+    <string name="downtime_pop_up">You\'ve been down for %.2f seconds</string>
+    <string name="title_activity_contact_message">Send Message</string>
+</resources>
